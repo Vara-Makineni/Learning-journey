@@ -8,8 +8,12 @@ Build modular and loosely coupled applications using spring and spring boot.
 
 Need to work little on jdbc as well.
 
+<<<<<<< HEAD
 Jpa as well 
 
 kbkbckabc
 
 hbb
+=======
+Jpa as well
+>>>>>>> b6307fbbb4d5454367ccad25f10622abeba0fa6b
